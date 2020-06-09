@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ConsoleApp1\Ex05_Over\bin\Debug\Ex05_Over.exe.config
+C:\Users\user\source\repos\ConsoleApp1\Ex05_Over\bin\Debug\Ex05_Over.exe
+C:\Users\user\source\repos\ConsoleApp1\Ex05_Over\bin\Debug\Ex05_Over.pdb
+C:\Users\user\source\repos\ConsoleApp1\Ex05_Over\obj\Debug\Ex05_Over.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp1\Ex05_Over\obj\Debug\Ex05_Over.exe
+C:\Users\user\source\repos\ConsoleApp1\Ex05_Over\obj\Debug\Ex05_Over.pdb

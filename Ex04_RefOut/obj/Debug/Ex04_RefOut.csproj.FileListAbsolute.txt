@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ConsoleApp1\Ex04_RefOut\bin\Debug\Ex04_RefOut.exe.config
+C:\Users\user\source\repos\ConsoleApp1\Ex04_RefOut\bin\Debug\Ex04_RefOut.exe
+C:\Users\user\source\repos\ConsoleApp1\Ex04_RefOut\bin\Debug\Ex04_RefOut.pdb
+C:\Users\user\source\repos\ConsoleApp1\Ex04_RefOut\obj\Debug\Ex04_RefOut.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp1\Ex04_RefOut\obj\Debug\Ex04_RefOut.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp1\Ex04_RefOut\obj\Debug\Ex04_RefOut.exe
+C:\Users\user\source\repos\ConsoleApp1\Ex04_RefOut\obj\Debug\Ex04_RefOut.pdb

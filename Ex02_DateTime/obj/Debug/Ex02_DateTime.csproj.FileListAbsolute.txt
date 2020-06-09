@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ConsoleApp1\Ex02_DateTime\bin\Debug\Ex02_DateTime.exe.config
+C:\Users\user\source\repos\ConsoleApp1\Ex02_DateTime\bin\Debug\Ex02_DateTime.exe
+C:\Users\user\source\repos\ConsoleApp1\Ex02_DateTime\bin\Debug\Ex02_DateTime.pdb
+C:\Users\user\source\repos\ConsoleApp1\Ex02_DateTime\obj\Debug\Ex02_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp1\Ex02_DateTime\obj\Debug\Ex02_DateTime.exe
+C:\Users\user\source\repos\ConsoleApp1\Ex02_DateTime\obj\Debug\Ex02_DateTime.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ConsoleApp1\Ex03_CheckAhal\obj\Debug\Ex03_CheckAhal.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp1\Ex03_CheckAhal\bin\Debug\Ex03_CheckAhal.exe.config
+C:\Users\user\source\repos\ConsoleApp1\Ex03_CheckAhal\bin\Debug\Ex03_CheckAhal.exe
+C:\Users\user\source\repos\ConsoleApp1\Ex03_CheckAhal\bin\Debug\Ex03_CheckAhal.pdb
+C:\Users\user\source\repos\ConsoleApp1\Ex03_CheckAhal\obj\Debug\Ex03_CheckAhal.exe
+C:\Users\user\source\repos\ConsoleApp1\Ex03_CheckAhal\obj\Debug\Ex03_CheckAhal.pdb
+C:\Users\user\source\repos\ConsoleApp1\Ex03_CheckAhal\obj\Debug\Ex03_CheckAhal.csprojAssemblyReference.cache

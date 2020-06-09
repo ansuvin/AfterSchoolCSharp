@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ConsoleApp1\Ex01_PrintOddEvenNumber\bin\Debug\Ex01_PrintOddEvenNumber.exe.config
+C:\Users\user\source\repos\ConsoleApp1\Ex01_PrintOddEvenNumber\bin\Debug\Ex01_PrintOddEvenNumber.exe
+C:\Users\user\source\repos\ConsoleApp1\Ex01_PrintOddEvenNumber\bin\Debug\Ex01_PrintOddEvenNumber.pdb
+C:\Users\user\source\repos\ConsoleApp1\Ex01_PrintOddEvenNumber\obj\Debug\Ex01_PrintOddEvenNumber.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp1\Ex01_PrintOddEvenNumber\obj\Debug\Ex01_PrintOddEvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp1\Ex01_PrintOddEvenNumber\obj\Debug\Ex01_PrintOddEvenNumber.exe
+C:\Users\user\source\repos\ConsoleApp1\Ex01_PrintOddEvenNumber\obj\Debug\Ex01_PrintOddEvenNumber.pdb

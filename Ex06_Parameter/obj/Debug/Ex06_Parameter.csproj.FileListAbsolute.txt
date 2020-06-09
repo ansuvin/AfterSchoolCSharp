@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ConsoleApp1\Ex06_Parameter\bin\Debug\Ex06_Parameter.exe.config
+C:\Users\user\source\repos\ConsoleApp1\Ex06_Parameter\bin\Debug\Ex06_Parameter.exe
+C:\Users\user\source\repos\ConsoleApp1\Ex06_Parameter\bin\Debug\Ex06_Parameter.pdb
+C:\Users\user\source\repos\ConsoleApp1\Ex06_Parameter\obj\Debug\Ex06_Parameter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp1\Ex06_Parameter\obj\Debug\Ex06_Parameter.exe
+C:\Users\user\source\repos\ConsoleApp1\Ex06_Parameter\obj\Debug\Ex06_Parameter.pdb
