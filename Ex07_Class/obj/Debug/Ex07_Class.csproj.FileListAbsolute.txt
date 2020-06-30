@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ConsoleApp1\Ex07_Class\bin\Debug\Ex07_Class.exe.config
+C:\Users\user\source\repos\ConsoleApp1\Ex07_Class\bin\Debug\Ex07_Class.exe
+C:\Users\user\source\repos\ConsoleApp1\Ex07_Class\bin\Debug\Ex07_Class.pdb
+C:\Users\user\source\repos\ConsoleApp1\Ex07_Class\obj\Debug\Ex07_Class.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp1\Ex07_Class\obj\Debug\Ex07_Class.exe
+C:\Users\user\source\repos\ConsoleApp1\Ex07_Class\obj\Debug\Ex07_Class.pdb
